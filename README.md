@@ -17,6 +17,7 @@ Kinya is a cutting-edge voice assistant designed to understand and respond natur
 1. Clone the repository:
 ```bash
 git clone https://github.com/BYUMVUHOREAimable/kinyarwanda-voice-assistant.git
+cd kinyarwanda-voice-assistant
 ```
 
 2. Install dependencies (see Setup Guide below)
