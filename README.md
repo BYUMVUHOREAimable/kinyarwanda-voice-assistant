@@ -19,8 +19,16 @@ Kinya is a cutting-edge voice assistant designed to understand and respond natur
 git clone https://github.com/BYUMVUHOREAimable/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
 ```
+## How to test the project:
+-Upload the my drive on your google drive,
+-Find drive here:([TTS Model (Google Drive)](https://drive.google.com/drive/folders/1vrecoCWw_XQjIZt4LX4h7FbTK_Bk7Qw3))
+-Make sure you have account on (huging face[https://huggingface.co/]),
+-copy the key and past it in your (colab[https://colab.google/]), in secrets, name it (HF_TOKEN)
+-Upload kin_assistant.ipynb in your colab
+- run each code or files
+-The project will run as well as possible
 
-2. Install dependencies (see Setup Guide below)
+2. Install dependencies (see Setup Guide below in ##Dependencies)
 3. Launch the Gradio interface to start chatting!
 
 ## 🔍 How It Works
