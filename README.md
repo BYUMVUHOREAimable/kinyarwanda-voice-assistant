@@ -19,17 +19,29 @@ Kinya is a cutting-edge voice assistant designed to understand and respond natur
 git clone https://github.com/BYUMVUHOREAimable/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
 ```
-## How to test the project:
--Upload the my drive on your google drive,
--Find drive here:([TTS Model (Google Drive)](https://drive.google.com/drive/folders/1vrecoCWw_XQjIZt4LX4h7FbTK_Bk7Qw3))
--Make sure you have account on (huging face[https://huggingface.co/]),
--copy the key and past it in your (colab[https://colab.google/]), in secrets, name it (HF_TOKEN)
--Upload kin_assistant.ipynb in your colab
-- run each code or files
--The project will run as well as possible
 
-2. Install dependencies (see Setup Guide below in ##Dependencies)
-3. Launch the Gradio interface to start chatting!
+## 🚀 How to Test the Project
+
+### Prerequisites
+1. **Google Drive Setup**
+   - Upload the model files to your Google Drive
+   - Access the model files here: [TTS Model (Google Drive)](https://drive.google.com/drive/folders/1vrecoCWw_XQjIZt4LX4h7FbTK_Bk7Qw3)
+
+2. **Hugging Face Account**
+   - Create an account on [Hugging Face](https://huggingface.co/)
+   - Copy your API key
+
+3. **Google Colab Setup**
+   - Open [Google Colab](https://colab.google/)
+   - Add your Hugging Face token in Colab secrets:
+     - Name: `HF_TOKEN`
+     - Value: Your Hugging Face API key
+
+### Installation Steps
+1. Upload `kin_assistant.ipynb` to your Colab environment
+2. Install dependencies (see Dependencies section below)
+3. Run each code cell sequentially
+4. Launch the Gradio interface to start chatting!
 
 ## 🔍 How It Works
 
@@ -93,5 +105,4 @@ BYUMVUHOREAimable License – Open source and free to use!
 ---
 Built with love for All AI ecosystem
 
----
-Happy coding & learning!
+Happy coding & learning! 🚀
