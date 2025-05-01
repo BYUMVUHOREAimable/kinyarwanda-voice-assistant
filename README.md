@@ -68,7 +68,7 @@ pip install "numpy<2.1.0,>1.26.0" Cython gradio openai
 
 ## 📚 Resources
 
-- [TTS Model (Google Drive)](https://drive.google.com/drive/folders/1X6mPLWlz0KGq9IRMAutqmbWb-pZBtSXC?usp=drive_link)
+- [TTS Model (Google Drive)](https://drive.google.com/drive/folders/1vrecoCWw_XQjIZt4LX4h7FbTK_Bk7Qw3)
 - [Demo Notebook](kin_assistant.ipynb)
 
 ## 🙏 Credits & Acknowledgments
@@ -79,7 +79,10 @@ pip install "numpy<2.1.0,>1.26.0" Cython gradio openai
 
 ## 📜 License
 
-MIT License – Open source and free to use!
+BYUMVUHOREAimable License – Open source and free to use!
 
 ---
-Built with ❤️ for Rwanda's AI ecosystem
+Built with love for All AI ecosystem
+
+---
+Happy coding & learning!
